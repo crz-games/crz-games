@@ -1,16 +1,11 @@
-## Hi there 👋
-
-<!--
-**crz-games/crz-games** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+# CRZ.Games
+- one of those gaming websites like idk [geometrydash.io](https://geometrydash.io) or [slope ball thing](https://slope-unblocked-10x.github.io) (yucky ads)
+- idk
+- theres accounts that are linked for every online game on the platform
+- game requests and i make them lol
+- and stuff like that
+- but like
+- theres this thing where top 3 game ideas in terms of votes are chosen to be made
+- isnt that cool
+- you can go to it at uhh
+- [here i guess](https://clarita-supermilitary-aubrianna.ngrok-free.dev/games/)
